@@ -1,0 +1,25 @@
+{
+  "short_name": "Padma",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "https://d22fxaf9t8d39k.cloudfront.net/725c40f909c3ac656356863e228ebf2ef527346960fe07b8ff17a120581fb931128546.jpeg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://d22fxaf9t8d39k.cloudfront.net/725c40f909c3ac656356863e228ebf2ef527346960fe07b8ff17a120581fb931128546.jpeg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://d22fxaf9t8d39k.cloudfront.net/725c40f909c3ac656356863e228ebf2ef527346960fe07b8ff17a120581fb931128546.jpeg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
